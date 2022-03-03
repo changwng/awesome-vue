@@ -6,7 +6,16 @@
 </p>
 
 ## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+```code
+https://nicedoc.io/vuejs/awesome-vue
+https://github.com/sdras/vue-vscode-snippets
+https://github.com/kubawolanin/framework7-vscode
+git clone https://github.com/vuejs/awesome-vue
+git clone https://github.com/changwng/awesome-vue
+https://nicedoc.io/anubhavsrivastava/awesome-ui-component-library#special-use-case-libraries-1
+https://nicedoc.io/vuejs/awesome-vue#source-code-editing
+https://github.com/NarHakobyan/awesome-vue-boilerplate
+```
 > A curated list of awesome things related to Vue.js
 
 - [Resources](#resources)
